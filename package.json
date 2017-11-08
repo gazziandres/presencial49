@@ -1,5 +1,9 @@
 {
   "name": "actividad49",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "twitch-emoji": "^0.2.209"
+  }
 }
